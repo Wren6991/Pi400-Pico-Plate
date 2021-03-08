@@ -57,7 +57,7 @@
       ],
       "drc_exclusions": [],
       "meta": {
-        "version": 1
+        "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
@@ -111,11 +111,7 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.15,
         "min_via_annular_width": 0.15,
-        "min_via_diameter": 0.3,
-        "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0,
-        "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": -0.0
+        "min_via_diameter": 0.3
       },
       "track_widths": [
         0.0,
@@ -418,7 +414,7 @@
   },
   "sheets": [
     [
-      "54d73a1b-bee6-4928-9219-c844cb2c322c",
+      "0f84360c-d468-4779-958b-bef325312d0f",
       ""
     ]
   ],
